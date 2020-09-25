@@ -1,0 +1,11 @@
+	StackOverflow ofera 2 variante, una pentru dezvoltatori iar alta pentru business. In cea pentru dezvoltatori exista o sectiune publica de Q&A unde se pot
+pune intrebari legate de domeniul programarii, secvente de cod unde alti utilizatori pot veni cu raspunsuri. Intrebarea pusa poate primi 'up' daca este utila
+si 'down' daca nu. Apare data si ora cand a fost postata intrebarea, cand a fost ultima data activa si cate persoane au vazut-o. Intrebarile se pot adauga la
+bookmark, se poate da share, follow, comment. Cel ce scrie intrebarea poate pune tag-uri relevante cu continutul intrebarii pentru a le fi mai usor utilizatorilor
+sa gaseasca intrebari similare sau din aceeasi sfera de interes.
+	Logarea se poate face atat prin crearea unui cont, cat si folosind contul de Google, GitHub sau Facebook.
+
+	Mai exista si o sectiune privata unde angajatii undei companii pot comunica si impartasi informatii si pareri. Aceasta sectiune este contra cost si se afla
+in colaborare cu Teams. De asemenea, StackOverflow ofera oportunitatea gasirii unui loc de munca in sectiunea "Find a job" unde sunt prezentate ofertele de munca.
+
+	Partea de business a platformei se refera la Q&A privat realizat pentru companii, plasarea unor oferte de munca si a unor reclame de produse si servicii.
