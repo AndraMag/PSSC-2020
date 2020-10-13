@@ -1,0 +1,27 @@
+Workflow: New question
+Triggered by: Review your question request received
+Input: "Ask a question" form (Title, Body, Tags)
+Output: "Question created" event
+Side effects: Feedback notification
+//step1
+	Do validate question form
+	If form is invalid then 
+		stop
+//step2
+	Analyzed text via an ML
+//step3
+	return "Question created" event
+
+-Substep "Validate question form"
+Input: Unvalidated question form
+Output:Validated question and analyzed text
+Dependencies: ML, manual review
+
+-validate question
+-analyze text via ML
+- if text passed then
+	-return validated question form
+-else manual review
+-else return validation error
+
+
